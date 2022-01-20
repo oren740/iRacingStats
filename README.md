@@ -1,4 +1,4 @@
 # iRacingStats
 
-## pyracing pythong library
+## pyracing python library
 https://github.com/Esterni/pyracing
